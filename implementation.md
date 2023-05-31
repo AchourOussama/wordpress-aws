@@ -8,7 +8,7 @@ This a step-by-step documentation that covers all the technical implementation o
 
 # Architedute diagram:
 
-![wordpress website .png](Images\wordpress website .png)
+![wordpress website .png](./Images/wordpress%20website%20.png)
 
 ⚠️Please refer to the project report in case you would like to know about any component or detail of the architecutre 
 
@@ -43,8 +43,8 @@ This a step-by-step documentation that covers all the technical implementation o
 
 ### Installing the WordPress instance :
 
-[wordpress installation ](wordpress%20installation%202dedc8ab83cf414794afb5de898bed26.md)
+[wordpress installation ](WordPress installation\wordpress installation 2dedc8ab83cf414794afb5de898bed26.md)
 
 ### Running a service using the load balancer:
 
-[Running a service](Running%20a%20service%20de4adc0450cb4cda9a6fa7fc8ff97fc2.md)
+[Running a service](Creating a service\Running a service de4adc0450cb4cda9a6fa7fc8ff97fc2.md)

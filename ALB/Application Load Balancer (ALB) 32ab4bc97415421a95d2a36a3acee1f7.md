@@ -13,7 +13,7 @@
     2. Select "Load Balancers".
     3. Click "Create Load Balancer".
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-03.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-03.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-03.png](/ALB/ALB-03.png)
 
 1. At this level, AWS gives us a description and comparison of the different types of load balancers we can create.
     
@@ -22,15 +22,15 @@
     As it shows, this type of load balancer is responsible for distributing HTTP/HTTPS traffic.
     
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-04.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-04.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-04.png](/ALB/ALB-04.png)
 
 Here is a brief description of how an Elastic Load Balancer (ELB) works:
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-05.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-05.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-05.png](/ALB/ALB-05.png)
 
 1. Filling the ALB basic configuration information.
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-06.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-06.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-06.png](/ALB/ALB-06.png)
 
 1️⃣ Giving a name for the load balancer.
 
@@ -48,11 +48,11 @@ In fact, the Application Load Balancer supports both IPv4 and IPv6.
 
 1. Defining the VPC where the ALB resides.
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-07.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-07.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-07.png](/ALB/ALB-07.png)
 
 1. Defining the Network Mapping information.
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-08.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-08.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-08.png](/ALB/ALB-08.png)
 
 First, we select which Availability Zones to which the ALB will distribute the traffic.
 
@@ -64,13 +64,13 @@ Second, we select which subnet in each AZ.
 
 1. Selecting a security group for the ALB.
 
-⚠️ Please refer to the [ [https://www.notion.so/Security-Groups-49d5fb10a966425fb62e92a034567624?pvs=4#89589e917a4d4c3fafb77e2d8406f6ae](Security%20Groups%2049d5fb10a966425fb62e92a034567624.md)  ]to see how we created a security group for this ALB.
+⚠️ Please refer to the [ [https://www.notion.so/Security-Groups-49d5fb10a966425fb62e92a034567624?pvs=4#89589e917a4d4c3fafb77e2d8406f6ae](/Security%20Groups/Security%20Groups%2049d5fb10a966425fb62e92a034567624.md)  ]to see how we created a security group for this ALB.
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-09.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-09.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-09.png](/ALB/ALB-09.png)
 
 1. Defining the "listeners" and the "target groups".
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-10.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-10.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/ALB-10.png](/ALB/ALB-10.png)
 
 1️⃣ & 2️⃣ Selecting what types of traffic the ALB's listener will listen to.
 
@@ -88,11 +88,11 @@ Usually, the action is to forward the traffic to the target group (a target grou
     1. Type "target groups" in the search bar.
     2. Click "Create Target Group".
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-00.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-00.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-00.png](/ALB/target%20group/target%20group-00.png)
 
 1. Specifying the target type:
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-01.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-01.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-01.png](/ALB/target%20group/target%20group-01.png)
 
 The "target type" refers to the type of resources that will be registered as targets in the group.
 
@@ -100,7 +100,7 @@ The "target type" refers to the type of resources that will be registered as tar
 
 1. Filling the target group configuration information:
 
-![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-02.png](Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-02.png)
+![Application%20Load%20Balancer%20(ALB)%2032ab4bc97415421a95d2a36a3acee1f7/target_group-02.png](/ALB/target%20group/target%20group-02.png)
 
 1️⃣ Giving a name for the target group.
 
