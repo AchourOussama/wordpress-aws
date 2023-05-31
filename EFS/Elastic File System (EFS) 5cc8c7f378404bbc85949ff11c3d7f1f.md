@@ -13,11 +13,11 @@
     2. Select "Clusters".
     3. Click "Create Cluster"
     
-    ![Untitled](Elastic%20File%20System%20(EFS)%205cc8c7f378404bbc85949ff11c3d7f1f/Untitled.png)
+    ![Untitled](/EFS/efs-04.png)
     
     1. Filling the EFS basic information
     
-    ![Untitled](Elastic%20File%20System%20(EFS)%205cc8c7f378404bbc85949ff11c3d7f1f/Untitled%201.png)
+    ![Untitled](/EFS/efs-05.png)
     
     1️⃣ giving a name for the EFS file system
     
@@ -28,7 +28,7 @@
     
     💡For this project :we chose the *************standard class*************
     
-    ![Untitled](Elastic%20File%20System%20(EFS)%205cc8c7f378404bbc85949ff11c3d7f1f/Untitled%202.png)
+    ![Untitled](/EFS/efs-06.png)
     
     💡As the arrows show, we define in which VPC the file system reside and the mount targets ;
     
@@ -47,4 +47,4 @@
 
 ## Creating a security group for the EFS:
 
-[https://www.notion.so/Security-Groups-49d5fb10a966425fb62e92a034567624?pvs=4#51225dcaaf2f4d30a02e9186034aa39b](Security%20Groups%2049d5fb10a966425fb62e92a034567624.md)
+[https://www.notion.so/Security-Groups-49d5fb10a966425fb62e92a034567624?pvs=4#51225dcaaf2f4d30a02e9186034aa39b](/Security%20Groups/Security%20Groups%2049d5fb10a966425fb62e92a034567624.md)

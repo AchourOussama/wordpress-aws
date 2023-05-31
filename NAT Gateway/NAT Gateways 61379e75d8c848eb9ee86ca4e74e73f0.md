@@ -8,15 +8,15 @@ A Network Address Translation (NAT) Gateway is a managed network service provide
 
 ### Here are the NAT gateways
 
-![NAT gateway-00.png](NAT%20Gateways%2061379e75d8c848eb9ee86ca4e74e73f0/NAT_gateway-00.png)
+![NAT gateway-00.png](/NAT%20Gateway/NAT%20gateway-00.png)
 
 ### Here are the elastic IP addresses
 
-![2023-05-29_11-58-00.png](NAT%20Gateways%2061379e75d8c848eb9ee86ca4e74e73f0/2023-05-29_11-58-00.png)
+![2023-05-29_11-58-00.png](/NAT%20Gateway/2023-05-29_11-58-00.png)
 
 ### NAT Gateway information
 
-![NAT gateway-01.png](NAT%20Gateways%2061379e75d8c848eb9ee86ca4e74e73f0/NAT_gateway-01.png)
+![NAT gateway-01.png](/NAT%20Gateway/NAT%20gateway-01.png)
 
 1️⃣ NAT Gateway ID
 
