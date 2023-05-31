@@ -8,7 +8,7 @@ This a step-by-step documentation that covers all the technical implementation o
 
 # Architedute diagram:
 
-![wordpress website .png](.\Images\wordpress website .png)
+![wordpress website .png](./Images/wordpress%20website%20.png)
 
 ⚠️Please refer to the project report in case you would like to know about any component or detail of the architecutre 
 
