@@ -1,9 +1,5 @@
 # Running a service
 
-# Overview:
-
----
-
 # Instructions:
 
 ## Creating an ECS Service:

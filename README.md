@@ -4,13 +4,16 @@
 
 This a step-by-step documentation that covers all the technical implementation of the architecture that we have desinged for the wordpress wesbite project 
 
+
 ---
 
 # Architedute diagram:
 
-![wordpress website .png](./Images/wordpress%20website%20.png)
+![wordpress website .png](/Files%26Images/wordpress%20website%20.png)
 
 ⚠️Please refer to the project report in case you would like to know about any component or detail of the architecutre 
+Here is the project report providing an in-depth explanation of the project : 
+[Project Report](/Files%26Images/wordpress-aws.pdf)
 
 # Stages :
 
@@ -18,7 +21,7 @@ This a step-by-step documentation that covers all the technical implementation o
 
 [VPC](/VPC/VPC%209048cce4791b4ba9a0cb45612060b464.md)
 
-### Creating security groups for the resources included in this architecture :
+### Creating security groups for all the resources included in this architecture :
 
 [Security Groups](/Security%20Groups/Security%20Groups%2049d5fb10a966425fb62e92a034567624.md)
 

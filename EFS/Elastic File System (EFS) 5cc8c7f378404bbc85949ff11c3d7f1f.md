@@ -1,8 +1,5 @@
 # Elastic File System (EFS)
 
-# Overview :
-
----
 
 # Instructions:
 

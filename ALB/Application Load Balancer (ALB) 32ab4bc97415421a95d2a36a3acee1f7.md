@@ -1,8 +1,5 @@
 # Application Load Balancer (ALB)
 
-# Overview:
-
----
 
 # Instructions:
 

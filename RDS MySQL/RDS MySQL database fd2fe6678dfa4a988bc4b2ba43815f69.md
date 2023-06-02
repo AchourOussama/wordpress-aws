@@ -1,8 +1,5 @@
 # RDS MySQL database
 
-# Overview:
-
----
 
 # Instructions:
 

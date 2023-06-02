@@ -8,9 +8,11 @@ This a step-by-step documentation that covers all the technical implementation o
 
 # Architedute diagram:
 
-![wordpress website .png](./Images/wordpress%20website%20.png)
+![wordpress website .png](/Files%26Images/wordpress%20website%20.png)
 
 ⚠️Please refer to the project report in case you would like to know about any component or detail of the architecutre 
+Here is the project report providing an in-depth explanation of the project : 
+[Project Report](/Files%26Images/wordpress-aws.pdf)
 
 # Stages :
 
