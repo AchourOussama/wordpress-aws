@@ -1,9 +1,5 @@
 # wordpress installation
 
-# Overview:
-
----
-
 # Instructions:
 
 Installing WordPress requires first running an ECS task/service so that we can access the WordPress instance.
