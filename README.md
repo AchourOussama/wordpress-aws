@@ -1,13 +1,17 @@
+# About : 
+
+This project consists of deploying a WordPress website on an AWS ECS Cluster 
+
 # implementation
 
-# Overview :
+## Overview :
 
 This a step-by-step documentation that covers all the technical implementation of the architecture that we have desinged for the wordpress wesbite project 
 
 
 ---
 
-# Architedute diagram:
+## Architedute diagram:
 
 ![wordpress website .png](/Files%26Images/wordpress%20website%20.png)
 
@@ -15,7 +19,7 @@ This a step-by-step documentation that covers all the technical implementation o
 Here is the project report providing an in-depth explanation of the project : 
 [Project Report](/Files%26Images/wordpress-aws.pdf)
 
-# Stages :
+## Stages :
 
 ### Setting up the VPC  :
 

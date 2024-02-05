@@ -1,0 +1,21 @@
+28-5: 
+
+ppp-rds-admin007
+
+aurora_wordpress007
+souma-author
+
+rdsIhopeFinal007
+soumaAuthour007
+
+H%cnFzpYTyhYpqvF1E
+
+
+WORDPRESS_CONFIG_EXTRA : define('WP_HOME','http://sudo-Appli-119LLABBPICWG-1448672977.us-east-1.elb.amazonaws.com'); define('WP_SITEURL','http://sudo-Appli-119LLABBPICWG-1448672977.us-east-1.elb.amazonaws.com'); define('CONCATENATE_SCRIPTS',false); define('WPINV_USE_PHP_SESSIONS',false); define('FS_METHOD','direct');
+define('WP_HOME','project-alb-863399093.eu-central-1.elb.amazonaws.com'); define('WP_SITEURL','project-alb-863399093.eu-central-1.elb.amazonaws.com'); define('CONCATENATE_SCRIPTS',false); define('WPINV_USE_PHP_SESSIONS',false); define('FS_METHOD','direct');
+
+29-5 : 
+new database with public access : 
+rdsadmin
+
+wordpress_SoumaWebsite007
